@@ -1,0 +1,9 @@
+#pragma once
+#define WINDOW_WIDTH 1024
+#define WINDOW_HEIGH  768
+#define BIRD_DURATION 0.2f
+#define VEL_OF_TAP 40
+#define PIPES_MOVEMENT 1
+#define PIPES_RENDER_RND 300+200
+#define BIRD_HEIGH 48
+#define BIRD_WIDTH 68
